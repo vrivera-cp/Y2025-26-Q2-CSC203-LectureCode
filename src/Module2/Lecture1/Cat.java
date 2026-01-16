@@ -10,7 +10,7 @@ public class Cat {
 
     // Constructor
     public Cat(String name, int age) {
-        //
+        // In a constructor, "this" refers to the instance being created
         this.name = name;
         this.age = age;
     }
